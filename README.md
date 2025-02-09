@@ -1,16 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    
 
-</head>
-<body>
-<h1> Hello World</h1>
-
-
-
-</body>
-
-
+<h1> Hello World This is a Sample!</h1>
 
 </html>
